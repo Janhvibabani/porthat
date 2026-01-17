@@ -1,0 +1,229 @@
+{
+  "theme": "Ocean",
+  "github": "janhvibabani",
+  "illustration": true,
+  "profile": {
+    "name": "Janhvi",
+    "handle": "jamroll",
+    "avatar": "/pfp.jpg",
+    "banner": "/header.jpg",
+    "bio": "prev - SDE Intern - Google, Amazon, bekar college, pr bachi acchi hu",
+    "location": "India",
+    "resumeUrl": null,
+    "email": "janhvibabani@gmail.com"
+  },
+  "roles": [
+    "SWE Intern Google",
+    "SDE Intern Amazon",
+    "Creative"
+  ],
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/janhvibabani",
+      "icon": "github"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/janh_whyy",
+      "icon": "twitter"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/janhvibabani",
+      "icon": "linkedin"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "icon": "brain",
+      "color": "#8B5CF6"
+    },
+    {
+      "name": "Web Dev",
+      "icon": "target",
+      "color": "#EF4444"
+    },
+    {
+      "name": "Leadership",
+      "icon": "crown",
+      "color": "#F59E0B"
+    },
+    {
+      "name": "Communications",
+      "icon": "trophy",
+      "color": "#10B981"
+    },
+    {
+      "name": "Learner",
+      "icon": "gamepad",
+      "color": "#3B82F6"
+    },
+    {
+      "name": "Analysis",
+      "icon": "message",
+      "color": "#EC4899"
+    },
+    {
+      "name": "Public Speaking",
+      "icon": "mic",
+      "color": "#06B6D4"
+    },
+    {
+      "name": "Presistence",
+      "icon": "eye",
+      "color": "#DC2626"
+    }
+  ],
+  "experience": [
+    {
+      "company": "SWE Intern",
+      "role": "Google",
+      "type": "Internship",
+      "period": "June 2025- September 2025",
+      "location": "Bengaluru",
+      "details": [
+      "Engineered automatic placement of product stickers using AI for YouTube Shorts by integrating Gemini .",
+        "Automated ML validation workflows using Python,",
+        " Designed and implemented an end-to-end CV ",
+        " Collaborated with cross-functional teams (PMs, researchers) "
+      ]
+    },
+    {
+      "company": "Amazon",
+      "role": "SDE Intern",
+      "type": "Internship",
+      "period": "June 2024 - August 2024",
+      "location": "Hyderabad",
+      "details": [
+        " Architected and deployed a high throughput decant workflow ",
+        " Engineered React-based classification filters with optimized state management, reduced manual effort by 20%",
+        " Engineered backend microservices in Java + Spring Boot end to end."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Govt. Women's Engineering Collge Ajmer",
+      "degree": "College",
+      "field": "Computer Science",
+      "period": "August 2022 - April 2026",
+      "location": "Ajmer, Rajasthan",
+      "grade": "CGPA 8.83",
+      "details": [
+        "Among top academic performers",
+        "Technical Subhead 2024-2025"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "thesubtitles",
+      "slug": "thesubtitles",
+      "description": "subtitles for photos",
+      "image": "https://www.thesubtitles.xyz/og.png",
+      "tags": [
+        "Nexjs",
+        "Editing Tool",
+        "CSR"
+      ],
+      "github": "https://github.com/Janhvibabani/caption-editor",
+      "demo": "https://www.thesubtitles.xyz",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "chesstimer",
+      "slug": "chess-timer",
+      "description": "There was no pretty chesstimer so I made onee",
+      "image": "http://chesstimer.janhvi.me/og.png",
+      "tags": [
+        "Leadership",
+        "Military",
+        "Revolution"
+      ],
+      "github": null,
+      "demo": "http://chesstimer.janhvi.me/",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "photobooth",
+      "slug": "ufn",
+      "description": "Diplomatic achievement uniting 47 nations against the Britannian Empire, establishing a democratic world order.",
+      "image": "/photobooth.png",
+      "tags": [
+        "Diplomacy",
+        "Politics",
+        "Unity"
+      ],
+      "github": null,
+      "demo": "https://photobooth.janhvi.me/",
+      "featured": true
+    },
+    {
+      "id": "4",
+      "title": "URL Shortener",
+      "slug": "analytics and url shortening",
+      "description": "made it for the learning purpose",
+      "image": "/urlshortener.png",
+      "tags": [
+        "Geass",
+        "Power",
+        "Control"
+      ],
+      "github": null,
+      "demo": null,
+      "featured": true
+    }
+  ],
+  "blogs": [
+    {
+      "slug": "multithreading - java",
+      "title": "The Power of Geass: Understanding Absolute Obedience",
+      "date": "2018-03-15",
+      "excerpt": "An exploration of the Geass power, its origins from C.C., and the ethical implications of commanding absolute obedience.",
+      "tags": [
+        "Geass",
+        "Philosophy",
+        "Power"
+      ],
+      "coverImage": "https://wallpapercave.com/wp/wp2883497.jpg",
+      "readingTime": "5 min"
+    },
+    {
+      "slug": "strategic-warfare",
+      "title": "Strategic Warfare: Lessons from the Black Rebellion",
+      "date": "2018-02-20",
+      "excerpt": "Breaking down the tactical decisions that led to the success of the Black Rebellion and the liberation of Japan.",
+      "tags": [
+        "Strategy",
+        "Military",
+        "Tactics"
+      ],
+      "coverImage": "https://wallpapercave.com/wp/wp2883502.jpg",
+      "readingTime": "8 min"
+    },
+    {
+      "slug": "chess-and-war",
+      "title": "Chess and War: The Art of Sacrifice",
+      "date": "2018-01-10",
+      "excerpt": "How the principles of chess apply to real-world strategy, and why sometimes the king must lead from the front.",
+      "tags": [
+        "Chess",
+        "Leadership",
+        "Philosophy"
+      ],
+      "coverImage": "https://wallpapercave.com/wp/wp2883510.jpg",
+      "readingTime": "6 min"
+    }
+  ],
+  "quotes": [
+    "Just show up no matter what",
+    "You may never know how, but all of it makes sense",
+    "Sometimes you just need to be out there",
+    "As you walk, the way appears."
+  ]
+}
