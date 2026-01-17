@@ -180,45 +180,6 @@
     }
   ],
   "blogs": [
-    {
-      "slug": "multithreading - java",
-      "title": "The Power of Geass: Understanding Absolute Obedience",
-      "date": "2018-03-15",
-      "excerpt": "An exploration of the Geass power, its origins from C.C., and the ethical implications of commanding absolute obedience.",
-      "tags": [
-        "Geass",
-        "Philosophy",
-        "Power"
-      ],
-      "coverImage": "https://wallpapercave.com/wp/wp2883497.jpg",
-      "readingTime": "5 min"
-    },
-    {
-      "slug": "strategic-warfare",
-      "title": "Strategic Warfare: Lessons from the Black Rebellion",
-      "date": "2018-02-20",
-      "excerpt": "Breaking down the tactical decisions that led to the success of the Black Rebellion and the liberation of Japan.",
-      "tags": [
-        "Strategy",
-        "Military",
-        "Tactics"
-      ],
-      "coverImage": "https://wallpapercave.com/wp/wp2883502.jpg",
-      "readingTime": "8 min"
-    },
-    {
-      "slug": "chess-and-war",
-      "title": "Chess and War: The Art of Sacrifice",
-      "date": "2018-01-10",
-      "excerpt": "How the principles of chess apply to real-world strategy, and why sometimes the king must lead from the front.",
-      "tags": [
-        "Chess",
-        "Leadership",
-        "Philosophy"
-      ],
-      "coverImage": "https://wallpapercave.com/wp/wp2883510.jpg",
-      "readingTime": "6 min"
-    }
   ],
   "quotes": [
     "Just show up no matter what",
