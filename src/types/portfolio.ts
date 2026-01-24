@@ -43,13 +43,14 @@ export interface Project {
 }
 
 export interface BlogPost {
-  slug: string;
+  id: string;
   title: string;
+  url: string;
   date: string;
-  excerpt: string;
+  description: string;
   tags: string[];
-  coverImage?: string;
   readingTime?: string;
+  platform?: "medium" | "dev" | "hashnode" | "other";
 }
 
 export interface Education {
@@ -60,6 +61,17 @@ export interface Education {
   location: string;
   grade?: string;
   details?: string[];
+}
+
+export interface PullRequest {
+  id: string;
+  title: string;
+  repo: string;
+  repoUrl: string;
+  prUrl: string;
+  status: "merged" | "open" | "closed";
+  description: string;
+  date: string;
 }
 
 export interface PortfolioData {
@@ -73,6 +85,7 @@ export interface PortfolioData {
   experience: Experience[];
   education: Education[];
   projects: Project[];
+  pullRequests: PullRequest[];
   blogs: BlogPost[];
   quotes: string[];
 }

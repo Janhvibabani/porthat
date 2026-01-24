@@ -179,7 +179,59 @@
       "featured": true
     }
   ],
+  "pullRequests": [
+    {
+      "id": "1",
+      "title": "Add GitHub OAuth integration",
+      "repo": "Git-Friend",
+      "repoUrl": "https://github.com/krishn404/Git-Friend",
+      "prUrl": "https://github.com/krishn404/Git-Friend/pull/9",
+      "status": "merged",
+      "description": "Added end to end support of adding Readme directly to the github repo.",
+      "date": "Jan 2026"
+    },
+    {
+      "id": "2",
+      "title": "Added examples for minLineCount property in MissingJava",
+      "repo": "checkstyle",
+      "repoUrl": "https://github.com/checkstyle/checkstyle/",
+      "prUrl": "https://github.com/checkstyle/checkstyle/pull/17927",
+      "status": "merged",
+      "description": "Added a valid XDoc example for the minLineCount property in MissingJavadocMethodCheck",
+      "date": "Dec 2025"
+    }
+  ],
   "blogs": [
+    {
+      "id": "1",
+      "title": "Multithreading (Implementing parallel merge sort using multithreading)",
+      "url": "https://medium.com/@janhvibabani/multithreading-implementing-parallel-merge-sort-using-multithreading-6d1dd96f5977",
+      "date": "Nov 2025",
+      "description": "Multhithreading",
+      "tags": ["Tech", "Operating System"],
+      "readingTime": "5 min",
+      "platform": "medium"
+    },
+    {
+      "id": "2",
+      "title": "Google India SWE Summer Intern’25 Interview Experience",
+      "url": "https://medium.com/@janhvibabani/google-india-swe-summer-intern25-interview-experience-48592ca6508f",
+      "date": "May 2025",
+      "description": "Interviews at Google",
+      "tags": ["Tech", "Careers"],
+      "readingTime": "5 min",
+      "platform": "medium"
+    },
+    {
+      "id": "3",
+      "title": "How I became SDE Intern at Amazon in my second year!",
+      "url": "https://medium.com/@janhvibabani/how-i-became-sde-intern-at-amazon-in-my-second-year-889deb54b754",
+      "date": "Nov 2025",
+      "description": "Amazon OA",
+      "tags": ["Tech", "Careers"],
+      "readingTime": "5 min",
+      "platform": "medium"
+    }
   ],
   "quotes": [
     "Just show up no matter what",

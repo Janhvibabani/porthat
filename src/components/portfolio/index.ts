@@ -2,6 +2,7 @@ export { default as Hero } from "./Hero";
 export { default as Experience } from "./Experience";
 export { default as Education } from "./Education";
 export { default as Projects } from "./Projects";
+export { default as PullRequests } from "./PullRequests";
 export { default as Skills } from "./Skills";
 export { default as SkillSlider } from "./SkillSlider";
 export { default as Blog } from "./Blog";
