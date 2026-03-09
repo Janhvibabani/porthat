@@ -120,6 +120,21 @@
   "projects": [
     {
       "id": "1",
+      "title": "Gitfriend",
+      "slug": "your friend to help you learn git and git hub",
+      "description": "backed by vercel",
+      "image": "/gitfriend.png",
+      "tags": [
+        "nextjs",
+        "RAG",
+        "Prompt Engineering"
+      ],
+      "github": "https://github.com/krishn404/Git-Friend/",
+      "demo": "https://www.gitfriend.xyz/",
+      "featured": true
+    },
+    {
+      "id": "2",
       "title": "thesubtitles",
       "slug": "thesubtitles",
       "description": "subtitles for photos",
@@ -134,45 +149,45 @@
       "featured": true
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "chesstimer",
       "slug": "chess-timer",
       "description": "There was no pretty chesstimer so I made onee",
       "image": "http://chesstimer.janhvi.me/og.png",
       "tags": [
-        "Leadership",
-        "Military",
-        "Revolution"
+        "nexjs",
+        "chess",
+        "timer"
       ],
       "github": null,
       "demo": "http://chesstimer.janhvi.me/",
       "featured": true
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "photobooth",
       "slug": "ufn",
       "description": "Diplomatic achievement uniting 47 nations against the Britannian Empire, establishing a democratic world order.",
       "image": "/photobooth.png",
       "tags": [
-        "Diplomacy",
-        "Politics",
-        "Unity"
+        "nexjs",
+        "camera",
+        "cute"
       ],
       "github": null,
       "demo": "https://photobooth.janhvi.me/",
       "featured": true
     },
     {
-      "id": "4",
+      "id": "5",
       "title": "URL Shortener",
       "slug": "analytics and url shortening",
       "description": "made it for the learning purpose",
       "image": "/urlshortener.png",
       "tags": [
-        "Geass",
-        "Power",
-        "Control"
+        "Java",
+        "Springboot",
+        "RESTAPI"
       ],
       "github": null,
       "demo": null,
